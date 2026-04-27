@@ -99,7 +99,6 @@ The dataset contains the following features:
 * Histograms
 * Heatmaps
 
----
 
 ---
 
@@ -120,7 +119,6 @@ The dataset contains the following features:
 * Matplotlib
 * Seaborn
 
----
 
 
 
